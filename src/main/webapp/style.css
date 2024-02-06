@@ -1,0 +1,18 @@
+@charset "::-moz-focus-outer-8859-1";
+
+body{
+	background-image: url("images/img1.jpg");
+	background-size: cover;
+	margin:0%
+}
+.nav{
+	height: 10%;
+	background-color: coral;
+	margin: 0px;
+	padding: 30px;
+}
+
+.pages{
+	display: flex;
+	justify-content: flex-end;
+}
